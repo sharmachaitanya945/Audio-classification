@@ -1,4 +1,4 @@
-[https://socialify.git.ci/sharmachaitanya945/Audio-classification/image?font=Bitter&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&stargazers=1&theme=Dark]
+<img src="https://socialify.git.ci/sharmachaitanya945/Audio-classification/image?font=Bitter&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&stargazers=1&theme=Dark" alt="Audio-classification" width="640" height="320" />
 # Audio Classification with Machine Learning
 
 This project focuses on classifying audio files into different categories using machine learning techniques. The notebook covers the entire pipeline from loading audio data, extracting features, training a neural network model, and making predictions.
